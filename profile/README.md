@@ -1,3 +1,5 @@
+![image](https://user-images.githubusercontent.com/59634395/189462791-4ab37551-484f-4592-9780-211ab174042b.png)
+
 ## 🌟 Welcome to Moment 📷
 
 Moment is an upcoming mobile application aimed at uniting people through events. This GitHub organization mainly contains private repositories used by our developers. There is not much to see here publicly :)
