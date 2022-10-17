@@ -4,7 +4,13 @@
 
 Moment is an upcoming mobile application aimed at uniting people through events. This GitHub organization mainly contains private repositories used by our developers. There is not much to see here publicly :)
 
+## Launch Website
+
+https://momentevents.github.io/homepage/
+
 ## Current Build (beta)
+
+Keep in mind that this is NOT the final product. This was simply a test to determine if there is indeed market demand for an app like this.
 
 [iOS download](https://apps.apple.com/us/app/id1640243688 "Moment iOS Download") 
 
