@@ -2,7 +2,7 @@
 
 ## 🌟 Welcome to Moment 📷
 
-Moment is a mobile application aimed at uniting people through events. This GitHub organization mainly contains private repositories used by our developers. There is not much to see here publicly :)
+Moment is a mobile application where students can find and host events. This GitHub organization mainly contains private repositories used by our developers. There is not much to see here publicly :)
 
 ## Website
 
