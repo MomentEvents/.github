@@ -1,5 +1,4 @@
-![momentbackground](https://user-images.githubusercontent.com/59634395/220245363-31d008cd-3940-478d-ad97-b39fab4baa69.png)
-
+![momentbackground](https://user-images.githubusercontent.com/59634395/220264212-2aa8516f-f44e-48d9-a511-84d073d1c65b.png)
 
 ## 🌟 Welcome to Moment 📷
 
