@@ -2,8 +2,10 @@
 
 ## 🌟 Welcome to Where2Be 📷
 
-Where2Be is a mobile application where students can find and host events. This GitHub organization mainly contains private repositories used by our developers. There is not much to see here publicly :)
+Where2Be is an event platform by students for students. This GitHub organization mainly contains private repositories used by our developers. There is not much to see here publicly :)
 
 ## Website
 
 https://where2be.app
+
+##### All app source code is not public and is highly confidential
