@@ -8,4 +8,4 @@ Where2Be is an event platform by students for students. This GitHub organization
 
 https://where2be.app
 
-##### All app source code is not public and is highly confidential
+**All mobile app and server source code is private and confidential. The only public repository is the website.**
